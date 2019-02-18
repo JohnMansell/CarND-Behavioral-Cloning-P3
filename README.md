@@ -15,7 +15,7 @@
 > * Keras
 > * Tensorflow-gpu
 
-### Video
+# Video
 [![Behavioral Cloning](http://img.youtube.com/vi/BV4eNGAV8-E/0.jpg)](https://www.youtube.com/watch?v=BV4eNGAV8-E "Behavioral Cloning")
 
 ### Included Files
