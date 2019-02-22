@@ -1,5 +1,5 @@
 # Behavioral Cloning
-[![Behavioral Cloning]('writeup_images/BehavioralCloning')](https://www.youtube.com/watch?v=BV4eNGAV8-E "Behavioral Cloning")  
+[![Behavioral Cloning]('writeup_images/BehavioralCloning.gif')](https://www.youtube.com/watch?v=BV4eNGAV8-E "Behavioral Cloning")  
 [Full Video](https://www.youtube.com/watch?v=BV4eNGAV8-E) on YouTube
 >
 # Objective
