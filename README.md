@@ -1,7 +1,10 @@
 # Behavioral Cloning
-
+[![Behavioral Cloning]('writeup_images/Behavioral Cloning Gif.gif')](https://www.youtube.com/watch?v=BV4eNGAV8-E "Behavioral Cloning")
+[Full Video](https://www.youtube.com/watch?v=BV4eNGAV8-E) on YouTube
+>
+# Objective
 > Use deep neural networks and convolutional neural networks to clone driving behavior.
-
+>
 # What I learned
 > - Transfer learning
 > - Keras
@@ -14,9 +17,6 @@
 > * Python
 > * Keras
 > * Tensorflow-gpu
-
-# Video
-[![Behavioral Cloning](http://img.youtube.com/vi/BV4eNGAV8-E/0.jpg)](https://www.youtube.com/watch?v=BV4eNGAV8-E "Behavioral Cloning")
 
 ### Included Files
 > [model.py](model.py) -- The script to create and train the model  
